@@ -18,17 +18,29 @@ theme: gaia
 
 ## なら集客から始めよう！
 
+- とりあえず自己紹介サイトを作ってみることに
+
 ---
 
 ## 私の自己紹介サイトを React, Vite, Vercel で作成！
 
 - 普通のポートフォリオサイトでは面白くないので、ドラクエ風に！
+- サイト →https://my-dq-portfolio.vercel.app/
+- GitHub→https://github.com/developerhost/my-dq-portfolio
+  - 現在 19 スター獲得！
+- Zenn にて技術記事を公開！
+
+その結果...
 
 ---
 
 ## 現在、累計 2.5 万 PV, 4000 ユーザー獲得！
 
 ![test](./img/1.png)
+
+↑
+
+ここ拍手！
 
 ---
 
