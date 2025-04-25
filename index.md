@@ -102,6 +102,9 @@ const parser = new Parser();
 })();
 ```
 
+- 使用ライブラリ
+  - "rss-parser": "^3.13.0",
+
 ---
 
 ## react-simple-typewriter を用いてドラクエ風のチャット UI を実現！
@@ -136,22 +139,28 @@ export default ChatMessage;
 
 ---
 
+## その他工夫した点
+
+- map を 2 重配列で持たせ、主人公が動き、話しかける動作を実現！
+- md でブログを書ける機能を実装
+  - "zenn-content-css": "^0.1.158",
+  - "zenn-embed-elements": "^0.1.158",
+  - "zenn-markdown-html": "^0.1.158"
+- ドラクエ風の UI は以下のライブラリなどを使用
+  - "react-use": "^17.5.1",
+  - "tailwind-merge": "^2.5.5",
+  - "tailwindcss-animate": "^1.0.7",
+
+---
+
 ## 集客がある程度出来たので、現在作りたかったサービスを開発中！
 
 リリースしたらみんな、インストールして使ってみてね！
 
 ---
 
-##
+## ご清聴ありがとうございました！
 
----
-
-##
-
----
-
----
-
----
-
-## 自己紹介
+- 話しかけてもらえると喜びます！
+- また、現在一緒に expo, React Native で個人開発してくれる方を大募集中！
+- X→@dall_develop まで！
