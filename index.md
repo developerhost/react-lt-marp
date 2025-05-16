@@ -166,3 +166,9 @@ export default ChatMessage;
 - 話しかけてもらえると喜びます！
 - また、現在一緒に expo, React Native で個人開発してくれる方を大募集中！
 - X→@dall_develop まで！
+
+![test](./img/2.png)
+
+- サイト
+
+  ![test](./img/3.png)
